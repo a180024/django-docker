@@ -1,2 +1,2 @@
 # django-docker
-Docker Script for Django, PostgreSQL, Celery, Redis
+Dockerfile && docker-compose scripts for Django, PostgreSQL, Celery, Redis
