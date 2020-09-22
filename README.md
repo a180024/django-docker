@@ -1,2 +1,13 @@
 # django-docker
-Dockerfile && docker-compose scripts for Django, PostgreSQL, Celery, Redis
+
+## Dockerfile && Docker-Compose for
+- Django
+- PostgreSQL
+- Celery 
+- Redis
+
+## Usage
+```
+$ git clone https://github.com/a180024/django-docker/
+$ docker-compose up
+```
