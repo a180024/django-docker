@@ -8,6 +8,6 @@
 
 ## Usage
 ```
-$ git clone https://github.com/a180024/django-docker/
+$ git clone git@github.com:a180024/django-docker.git
 $ docker-compose up
 ```
